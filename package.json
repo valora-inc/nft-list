@@ -1,0 +1,35 @@
+{
+  "name": "@valora/nft-list",
+  "version": "0.0.1",
+  "description": "A curated list of NFT contracts.",
+  "main": "dist/index.js",
+  "repository": "git@github.com:valora-inc/nft-list.git",
+  "author": "Valora Inc",
+  "license": "Apache-2.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint --ext=.ts --fix src/",
+    "format": "prettier --loglevel error --write \"./**/*.ts\"",
+    "test": "tsc && prettier --check \"./**/*.ts\" && eslint --ext=.ts src/",
+    "prepublishOnly": "yarn build"
+  },
+  "prettier": "@valora/prettier-config",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@valora/eslint-config-typescript": "^1.0.0",
+    "@valora/prettier-config": "^0.0.1",
+    "eslint": "^8.11.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.1.1",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-react-native": "^4.0.0",
+    "jest": "^27.5.1",
+    "prettier": "^2.6.0",
+    "typescript": "4.4.3"
+  },
+  "dependencies": {
+    "@celo/base": "^1.5.2"
+  }
+}
