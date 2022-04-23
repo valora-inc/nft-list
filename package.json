@@ -6,12 +6,12 @@
   "repository": "git@github.com:valora-inc/nft-list.git",
   "author": "Valora Inc",
   "license": "Apache-2.0",
-  "private": true,
   "scripts": {
     "build": "tsc",
     "lint": "eslint --ext=.ts --fix src/",
     "format": "prettier --loglevel error --write \"./**/*.ts\"",
     "test": "tsc && prettier --check \"./**/*.ts\" && eslint --ext=.ts src/",
+    "release": "standard-version",
     "prepublishOnly": "yarn build"
   },
   "prettier": "@valora/prettier-config",
@@ -27,9 +27,13 @@
     "eslint-plugin-react-native": "^4.0.0",
     "jest": "^27.5.1",
     "prettier": "^2.6.0",
+    "standard-version": "^9.3.2",
     "typescript": "4.4.3"
   },
   "dependencies": {
     "@celo/base": "^1.5.2"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
