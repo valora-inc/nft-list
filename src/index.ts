@@ -7,7 +7,7 @@ interface NFTContract {
   verified?: boolean
 }
 
-export const nfts: NFTContract[] = [
+export const nftContracts: NFTContract[] = [
   {
     name: 'Womxn of Celo',
     contractAddress: '0x50826faa5b20250250e09067e8ddb1afa2bdf910',
