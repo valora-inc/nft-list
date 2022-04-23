@@ -19,7 +19,7 @@
     "@typescript-eslint/eslint-plugin": "5.15.0",
     "@valora/eslint-config-typescript": "1.0.0",
     "@valora/prettier-config": "0.0.1",
-    "eslint": "8.11.0",
+    "eslint": "8.14.0",
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-jest": "26.1.5",
     "eslint-plugin-react": "7.29.4",
