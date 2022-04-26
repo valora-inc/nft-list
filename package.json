@@ -31,7 +31,7 @@
     "typescript": "4.6.3"
   },
   "dependencies": {
-    "@celo/base": "^1.5.2"
+    "@celo/base": "^2.0.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
