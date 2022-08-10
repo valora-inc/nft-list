@@ -1002,10 +1002,10 @@
     "@typescript-eslint/types" "5.33.0"
     eslint-visitor-keys "^3.3.0"
 
-"@valora/eslint-config-typescript@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@valora/eslint-config-typescript/-/eslint-config-typescript-1.0.0.tgz#1e88c1b5508d7abd3fe2b40dd9462b1cb1d69331"
-  integrity sha512-FOHkxZ92kxhxeuDIVmHiLFQfDYxdYZ646Ix5mKtPuMTGNYwe2Cxs958ug+H/3STeRFV9z2cbebRB/DQNi6pyDw==
+"@valora/eslint-config-typescript@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@valora/eslint-config-typescript/-/eslint-config-typescript-1.0.1.tgz#99524730423f1cd125a94ee50539e3aa3d4b9e7c"
+  integrity sha512-8sF+XoEB/tQXpy5M94Je+R+aL1DGFyGHD/Fn1hz4ZbGvG4gaQnrWa9fsAeQbSqF/Rn93RZKJeEgLQysuIU1wxg==
   dependencies:
     "@typescript-eslint/parser" "^4.25.0"
 
