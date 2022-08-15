@@ -5,9 +5,14 @@ interface NFTContract {
   name: string
 }
 
-export const nftContracts: Record<'mainnet' | 'alfajores', NFTContract[]> = {
-  alfajores: [],
-  mainnet: [
+export enum Network {
+  Alfajores = 'alfajores',
+  Mainnet = 'mainnet',
+}
+
+export const nftContracts: Record<Network, NFTContract[]> = {
+  [Network.Alfajores]: [],
+  [Network.Mainnet]: [
     {
       name: 'Womxn of Celo',
       contractAddress: '0x50826faa5b20250250e09067e8ddb1afa2bdf910',
