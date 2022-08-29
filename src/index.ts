@@ -28,6 +28,14 @@ export const nftContracts: Record<Network, NFTContract[]> = {
     {
       name: 'Hive Mind',
       contractAddress: '0xB842a3081789328437987a94949cD524d4c6Ec99',
-    }
+    },
+    {
+      name: 'CeloPunks',
+      contractAddress: '0x9f46B8290A6D41B28dA037aDE0C3eBe24a5D1160'
+    },
+    {
+      name: 'Celostrials',
+      contractAddress: '0xAc80c3c8b122DB4DcC3C351ca93aC7E0927C605d',
+    },
   ],
 }
