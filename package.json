@@ -16,7 +16,7 @@
   },
   "prettier": "@valora/prettier-config",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "5.36.1",
+    "@typescript-eslint/eslint-plugin": "5.36.2",
     "@valora/eslint-config-typescript": "1.0.1",
     "@valora/prettier-config": "0.0.1",
     "eslint": "8.23.0",
