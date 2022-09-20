@@ -37,5 +37,9 @@ export const nftContracts: Record<Network, NFTContract[]> = {
       name: 'Celostrials',
       contractAddress: '0xAc80c3c8b122DB4DcC3C351ca93aC7E0927C605d',
     },
+    {
+      name: 'Ariart',
+      contractAddress: '0x8481d620CBa0Dc4a4421D1015DAbc60Ec55d6172',
+    }
   ],
 }
