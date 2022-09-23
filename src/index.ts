@@ -40,6 +40,10 @@ export const nftContracts: Record<Network, NFTContract[]> = {
     {
       name: 'Ariart',
       contractAddress: '0x8481d620CBa0Dc4a4421D1015DAbc60Ec55d6172',
+    },
+    {
+      name: 'IpermatchNFT',
+      contractAddress: '0x38f4F48c9Ab6B96daedA4Fae1F40c288b8656E8C',
     }
   ],
 }
