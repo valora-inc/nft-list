@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.10](https://github.com/valora-inc/nft-list/compare/v0.0.9...v0.0.10) (2022-10-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @celo/base to ^2.1.0 ([#56](https://github.com/valora-inc/nft-list/issues/56)) ([cdd8d56](https://github.com/valora-inc/nft-list/commit/cdd8d56145de4b4e4243c2c0d995f72248484ea9))
+
 ### [0.0.9](https://github.com/valora-inc/nft-list/compare/v0.0.8...v0.0.9) (2022-09-20)
 
 ### [0.0.8](https://github.com/valora-inc/nft-list/compare/v0.0.6...v0.0.8) (2022-08-31)
