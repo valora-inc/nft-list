@@ -44,6 +44,10 @@ export const nftContracts: Record<Network, NFTContract[]> = {
     {
       name: 'IpermatchNFT',
       contractAddress: '0x38f4F48c9Ab6B96daedA4Fae1F40c288b8656E8C',
-    }
+    },
+    {
+      name: 'CryptoBlobs',
+      contractAddress: '0x8f85a8d2cfc99397ee15a7a2605c842ff01260c0',
+    },
   ],
 }
