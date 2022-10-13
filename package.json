@@ -1,6 +1,6 @@
 {
   "name": "@valora/nft-list",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "A curated list of NFT contracts.",
   "main": "dist/index.js",
   "repository": "git@github.com:valora-inc/nft-list.git",
