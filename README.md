@@ -1,6 +1,9 @@
 # nft-list
 
-A curated list of NFT contracts. Valora identifies contracts in this list to its users.
+A curated list of NFT contracts. Valora attempts to automatically
+discover ERC-721 contracts, however, there are cases where a project
+should consider adding to this list. See [Adding new ERC-721
+contracts](./docs/adding-new-erc721-contracts.md) for more details.
 
 ## Developing
 
