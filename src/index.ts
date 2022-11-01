@@ -49,5 +49,9 @@ export const nftContracts: Record<Network, NFTContract[]> = {
       name: 'CryptoBlobs',
       contractAddress: '0x8f85a8d2cfc99397ee15a7a2605c842ff01260c0',
     },
+    {
+      name: 'inTheory Research NFTs',
+      contractAddress: '0xFF5e58Ce9408858f6BB5Fb979b08E9D6f21A276d',
+    },
   ],
 }
