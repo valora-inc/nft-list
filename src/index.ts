@@ -53,5 +53,9 @@ export const nftContracts: Record<Network, NFTContract[]> = {
       name: 'inTheory Research NFTs',
       contractAddress: '0xFF5e58Ce9408858f6BB5Fb979b08E9D6f21A276d',
     },
+    {
+      name: 'CyberBoxCertNFT',
+      contractAddress: '0xa4a8e345e1a88efc9164014bb2cebd4c2f98e986',
+    },
   ],
 }
