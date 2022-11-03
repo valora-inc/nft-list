@@ -1,3 +1,7 @@
+//
+// DO NOT ADD TO THIS FILE. See the README.md.
+//
+//
 import { Address } from '@celo/base/lib/address'
 
 interface NFTContract {
@@ -31,7 +35,7 @@ export const nftContracts: Record<Network, NFTContract[]> = {
     },
     {
       name: 'CeloPunks',
-      contractAddress: '0x9f46B8290A6D41B28dA037aDE0C3eBe24a5D1160'
+      contractAddress: '0x9f46B8290A6D41B28dA037aDE0C3eBe24a5D1160',
     },
     {
       name: 'Celostrials',
