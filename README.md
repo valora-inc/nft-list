@@ -21,6 +21,7 @@ yarn test
 
 ## Adding a contract
 
-Add the contract address and metadata about the contract to
-[index.ts](./src/index.ts) and create a PR for the Valora team to
-review.
+Add contract addresses to
+[alfajores-nft-list.json](./src/alfajores-nft-list.json) or
+[mainnet-nft-list.json](src/mainnet-nft-list.json) and create a PR for
+the Valora team to review.
