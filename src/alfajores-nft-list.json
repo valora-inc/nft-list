@@ -2,5 +2,9 @@
   {
     "name": "[TEST]CeloApesKingdom",
     "contractAddress": "0xd0dbe4d10b488ef06936b1ed5476932c9d189a61"
+  },
+  {
+    "name": "ValoraPunks",
+    "contractAddress": "0x2ab9b5449160a3b776fb404015e5e8eb881ef0bb"
   }
 ]
