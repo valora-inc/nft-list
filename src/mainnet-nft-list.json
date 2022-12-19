@@ -42,5 +42,9 @@
   {
     "name": "CyberBoxCertNFT",
     "contractAddress": "0xa4a8e345e1a88efc9164014bb2cebd4c2f98e986"
+  },
+  {
+    "name": "ValoraPunks",
+    "contractAddress": "0xaF99AC3aB1c17728d0Ee3256f02061018845b588"
   }
 ]
