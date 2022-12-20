@@ -6,7 +6,9 @@ function contractAddressValidation(value: any) {
   getAddress(value)
 
   if (value.toLowerCase() !== value) {
-    throw new Error(`${value} is not a lowercase address (expected ${value.toLowerCase()})`)
+    throw new Error(
+      `${value} is not a lowercase address (expected ${value.toLowerCase()})`,
+    )
   }
 
   return value
