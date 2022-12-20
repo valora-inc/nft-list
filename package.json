@@ -13,6 +13,7 @@
   },
   "prettier": "@valora/prettier-config",
   "devDependencies": {
+    "@ethersproject/address": "^5.7.0",
     "@types/jest": "^29.2.4",
     "@typescript-eslint/eslint-plugin": "5.46.1",
     "@valora/eslint-config-typescript": "1.0.1",
