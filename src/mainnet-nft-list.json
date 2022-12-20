@@ -5,7 +5,7 @@
   },
   {
     "name": "CeloApesKingdom",
-    "contractAddress": "0x1eCD77075F7504bA849d47DCe4cdC9695f1FE942"
+    "contractAddress": "0x1ecd77075f7504ba849d47dce4cdc9695f1fe942"
   },
   {
     "name": "The Butterfly Effect",
@@ -13,23 +13,23 @@
   },
   {
     "name": "Hive Mind",
-    "contractAddress": "0xB842a3081789328437987a94949cD524d4c6Ec99"
+    "contractAddress": "0xb842a3081789328437987a94949cd524d4c6ec99"
   },
   {
     "name": "CeloPunks",
-    "contractAddress": "0x9f46B8290A6D41B28dA037aDE0C3eBe24a5D1160"
+    "contractAddress": "0x9f46b8290a6d41b28da037ade0c3ebe24a5d1160"
   },
   {
     "name": "Celostrials",
-    "contractAddress": "0xAc80c3c8b122DB4DcC3C351ca93aC7E0927C605d"
+    "contractAddress": "0xac80c3c8b122db4dcc3c351ca93ac7e0927c605d"
   },
   {
     "name": "Ariart",
-    "contractAddress": "0x8481d620CBa0Dc4a4421D1015DAbc60Ec55d6172"
+    "contractAddress": "0x8481d620cba0dc4a4421d1015dabc60ec55d6172"
   },
   {
     "name": "IpermatchNFT",
-    "contractAddress": "0x38f4F48c9Ab6B96daedA4Fae1F40c288b8656E8C"
+    "contractAddress": "0x38f4f48c9ab6b96daeda4fae1f40c288b8656e8c"
   },
   {
     "name": "CryptoBlobs",
@@ -37,7 +37,7 @@
   },
   {
     "name": "inTheory Research NFTs",
-    "contractAddress": "0xFF5e58Ce9408858f6BB5Fb979b08E9D6f21A276d"
+    "contractAddress": "0xff5e58ce9408858f6bb5fb979b08e9d6f21a276d"
   },
   {
     "name": "CyberBoxCertNFT",
@@ -45,6 +45,6 @@
   },
   {
     "name": "ValoraPunks",
-    "contractAddress": "0xaF99AC3aB1c17728d0Ee3256f02061018845b588"
+    "contractAddress": "0xaf99ac3ab1c17728d0ee3256f02061018845b588"
   }
 ]
