@@ -9,7 +9,7 @@
     "build": "tsc",
     "lint": "eslint --ext=.ts --fix src/",
     "format": "prettier --loglevel error --write \"./**/*.ts\"",
-    "test": "tsc && prettier --check \"./**/*.ts\" && eslint --ext=.ts src/ && jest"
+    "test": "tsc && jest && prettier --check \"./**/*.ts\" && eslint --ext=.ts src/"
   },
   "prettier": "@valora/prettier-config",
   "devDependencies": {
