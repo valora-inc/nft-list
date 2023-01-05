@@ -46,5 +46,9 @@
   {
     "name": "ValoraPunks",
     "contractAddress": "0xaf99ac3ab1c17728d0ee3256f02061018845b588"
+  },
+  {
+    "name": "DheNFT",
+    "contractAddress": "0xac2fa32ad39f162570e6d749b676143ccef98fd6"
   }
 ]
