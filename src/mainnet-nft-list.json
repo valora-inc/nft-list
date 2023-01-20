@@ -50,5 +50,17 @@
   {
     "name": "DheNFT",
     "contractAddress": "0xac2fa32ad39f162570e6d749b676143ccef98fd6"
+  },
+  {
+    "name": "TMTM2023Attender",
+    "contractAddress": "0xd412cd69f0c2d881ce0fc55a2a59388cadfbc1d8"
+  },
+  {
+    "name": "TMTM2023Challenger",
+    "contractAddress": "0xdc2b902c061457fb62eb143bd574f98d9b5877a9"
+  },
+  {
+    "name": "TMTM2023TeamPlayer",
+    "contractAddress": "0x81d3a78082a2d4852a60632f31f57ef460888357"
   }
 ]
