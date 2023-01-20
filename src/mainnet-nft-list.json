@@ -53,14 +53,14 @@
   },
   {
     "name": "TMTM2023Attender",
-    "contractAddress": "0xd412cD69f0C2D881cE0Fc55a2A59388CADFbc1d8"
+    "contractAddress": "0xd412cd69f0c2d881ce0fc55a2a59388cadfbc1d8"
   },
   {
     "name": "TMTM2023Challenger",
-    "contractAddress": "0xdC2b902C061457FB62eb143Bd574F98d9b5877a9"
+    "contractAddress": "0xdc2b902c061457fb62eb143bd574f98d9b5877a9"
   },
   {
     "name": "TMTM2023TeamPlayer",
-    "contractAddress": "0x81D3A78082a2D4852A60632f31f57EF460888357"
+    "contractAddress": "0x81d3a78082a2d4852a60632f31f57ef460888357"
   }
 ]
