@@ -62,5 +62,10 @@
   {
     "name": "TMTM2023TeamPlayer",
     "contractAddress": "0x81d3a78082a2d4852a60632f31f57ef460888357"
+  },
+
+  {
+    "name": "Carbonized Celostrials",
+    "contractAddress": "0xb346e32c9c5196a580f7466a039d902b505ae7d4"
   }
 ]
