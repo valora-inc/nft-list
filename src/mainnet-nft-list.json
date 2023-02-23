@@ -23,6 +23,10 @@
     "name": "Celostrials",
     "contractAddress": "0xac80c3c8b122db4dcc3c351ca93ac7e0927c605d"
   },
+    {
+    "name": "HACKATHON TOKENIZACAO PATRIMONIO DA UNIAO",
+    "contractAddress": "0x2a4b16ed68272b08607998529686317a962B9Ff3"
+  },
   {
     "name": "Ariart",
     "contractAddress": "0x8481d620cba0dc4a4421d1015dabc60ec55d6172"
