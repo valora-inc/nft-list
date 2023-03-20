@@ -6,5 +6,9 @@
   {
     "name": "ValoraPunks",
     "contractAddress": "0x2ab9b5449160a3b776fb404015e5e8eb881ef0bb"
+  },
+  {
+    "name": "Planeta Azul",
+    "contractAddress": "0xFFA559bae75097a2816abd609D14219750A619ec"
   }
 ]
