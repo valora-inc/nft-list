@@ -74,5 +74,9 @@
   {
     "name": "YourValoraPersona",
     "contractAddress": "0xc49f7d91b18731edc54ec5693ad43bb1ddf6553c"
+  },
+  {
+  "name": "Planeta Azul",
+  "contractAddress": "0x792970ae5123f9f5bebbef2a55f66514b01bf321"
   }
 ]
