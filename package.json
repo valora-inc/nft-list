@@ -8,8 +8,8 @@
   "scripts": {
     "build": "tsc",
     "lint": "eslint --ext=.ts --fix src/",
-    "format": "prettier --loglevel error --write \"./**/*.ts\"",
-    "test": "tsc && jest && prettier --check \"./**/*.ts\" && eslint --ext=.ts src/"
+    "format": "prettier --loglevel error --write .",
+    "test": "tsc && jest && prettier --check . && eslint --ext=.ts src/"
   },
   "prettier": "@valora/prettier-config",
   "devDependencies": {
