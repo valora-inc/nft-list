@@ -1,2 +1,4 @@
 node_modules/
 dist/
+# Ignore since running yarn add package will rewrite it
+package.json

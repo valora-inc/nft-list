@@ -23,7 +23,7 @@
     "name": "Celostrials",
     "contractAddress": "0xac80c3c8b122db4dcc3c351ca93ac7e0927c605d"
   },
-    {
+  {
     "name": "HACKATHON TOKENIZACAO PATRIMONIO DA UNIAO",
     "contractAddress": "0x2a4b16ed68272b08607998529686317a962b9ff3"
   },
@@ -76,7 +76,7 @@
     "contractAddress": "0xc49f7d91b18731edc54ec5693ad43bb1ddf6553c"
   },
   {
-  "name": "Planeta Azul",
-  "contractAddress": "0x792970ae5123f9f5bebbef2a55f66514b01bf321"
+    "name": "Planeta Azul",
+    "contractAddress": "0x792970ae5123f9f5bebbef2a55f66514b01bf321"
   }
 ]
