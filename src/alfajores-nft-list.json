@@ -10,5 +10,13 @@
   {
     "name": "Planeta Azul",
     "contractAddress": "0xffa559bae75097a2816abd609d14219750a619ec"
+  },
+  {
+    "name": "MiniMice Yield Bond",
+    "contractAddress": "0x91Fe60b5A375feF35F076F16565f6B24229EB0dD"
+  },
+  {
+    "name": "Membership EthicHub Bond",
+    "contractAddress": "0x7b37B99CdD37a916260485f5c55E044CA91d8161"
   }
 ]
