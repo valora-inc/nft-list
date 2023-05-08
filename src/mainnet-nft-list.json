@@ -81,10 +81,10 @@
   },
   {
     "name": "MiniMice Yield Bond",
-    "contractAddress": "0x0f497a790429685a3CfD43b841865Ee185378ff0"
+    "contractAddress": "0x0f497a790429685a3cfd43b841865ee185378ff0"
   },
   {
     "name": "Membership EthicHub Bond",
-    "contractAddress": "0x8903412ac24281421f1D94Fe27De56c0433f3d1f"
+    "contractAddress": "0x8903412ac24281421f1d94fe27de56c0433f3d1f"
   }
 ]
