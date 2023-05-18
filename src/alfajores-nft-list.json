@@ -1,22 +1,27 @@
 [
   {
     "name": "[TEST]CeloApesKingdom",
-    "contractAddress": "0xd0dbe4d10b488ef06936b1ed5476932c9d189a61"
+    "contractAddress": "0xd0dbe4d10b488ef06936b1ed5476932c9d189a61",
+    "tokenType": "ERC721"
   },
   {
     "name": "ValoraPunks",
-    "contractAddress": "0x2ab9b5449160a3b776fb404015e5e8eb881ef0bb"
+    "contractAddress": "0x2ab9b5449160a3b776fb404015e5e8eb881ef0bb",
+    "tokenType": "ERC721"
   },
   {
     "name": "Planeta Azul",
-    "contractAddress": "0xffa559bae75097a2816abd609d14219750a619ec"
+    "contractAddress": "0xffa559bae75097a2816abd609d14219750a619ec",
+    "tokenType": "ERC721"
   },
   {
     "name": "MiniMice Yield Bond",
-    "contractAddress": "0x91fe60b5a375fef35f076f16565f6b24229eb0dd"
+    "contractAddress": "0x91fe60b5a375fef35f076f16565f6b24229eb0dd",
+    "tokenType": "ERC721"
   },
   {
     "name": "Membership EthicHub Bond",
-    "contractAddress": "0x7b37b99cdd37a916260485f5c55e044ca91d8161"
+    "contractAddress": "0x7b37b99cdd37a916260485f5c55e044ca91d8161",
+    "tokenType": "ERC721"
   }
 ]

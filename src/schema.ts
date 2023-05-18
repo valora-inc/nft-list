@@ -20,5 +20,6 @@ export const schema = Joi.array().items(
     contractAddress: Joi.string()
       .custom(contractAddressValidation, 'Contract address validation')
       .required(),
+    tokenType: Joi.string().valid('ERC721', 'ERC1155').required(),
   }),
 )

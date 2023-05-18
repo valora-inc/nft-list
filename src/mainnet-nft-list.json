@@ -1,90 +1,112 @@
 [
   {
     "name": "Womxn of Celo",
-    "contractAddress": "0x50826faa5b20250250e09067e8ddb1afa2bdf910"
+    "contractAddress": "0x50826faa5b20250250e09067e8ddb1afa2bdf910",
+    "tokenType": "ERC721"
   },
   {
     "name": "CeloApesKingdom",
-    "contractAddress": "0x1ecd77075f7504ba849d47dce4cdc9695f1fe942"
+    "contractAddress": "0x1ecd77075f7504ba849d47dce4cdc9695f1fe942",
+    "tokenType": "ERC721"
   },
   {
     "name": "The Butterfly Effect",
-    "contractAddress": "0x84a143262f4680cc164405179ea303853a4667f5"
+    "contractAddress": "0x84a143262f4680cc164405179ea303853a4667f5",
+    "tokenType": "ERC721"
   },
   {
     "name": "Hive Mind",
-    "contractAddress": "0xb842a3081789328437987a94949cd524d4c6ec99"
+    "contractAddress": "0xb842a3081789328437987a94949cd524d4c6ec99",
+    "tokenType": "ERC721"
   },
   {
     "name": "CeloPunks",
-    "contractAddress": "0x9f46b8290a6d41b28da037ade0c3ebe24a5d1160"
+    "contractAddress": "0x9f46b8290a6d41b28da037ade0c3ebe24a5d1160",
+    "tokenType": "ERC721"
   },
   {
     "name": "Celostrials",
-    "contractAddress": "0xac80c3c8b122db4dcc3c351ca93ac7e0927c605d"
+    "contractAddress": "0xac80c3c8b122db4dcc3c351ca93ac7e0927c605d",
+    "tokenType": "ERC721"
   },
   {
     "name": "HACKATHON TOKENIZACAO PATRIMONIO DA UNIAO",
-    "contractAddress": "0x2a4b16ed68272b08607998529686317a962b9ff3"
+    "contractAddress": "0x2a4b16ed68272b08607998529686317a962b9ff3",
+    "tokenType": "ERC721"
   },
   {
     "name": "Ariart",
-    "contractAddress": "0x8481d620cba0dc4a4421d1015dabc60ec55d6172"
+    "contractAddress": "0x8481d620cba0dc4a4421d1015dabc60ec55d6172",
+    "tokenType": "ERC721"
   },
   {
     "name": "IpermatchNFT",
-    "contractAddress": "0x38f4f48c9ab6b96daeda4fae1f40c288b8656e8c"
+    "contractAddress": "0x38f4f48c9ab6b96daeda4fae1f40c288b8656e8c",
+    "tokenType": "ERC721"
   },
   {
     "name": "CryptoBlobs",
-    "contractAddress": "0x8f85a8d2cfc99397ee15a7a2605c842ff01260c0"
+    "contractAddress": "0x8f85a8d2cfc99397ee15a7a2605c842ff01260c0",
+    "tokenType": "ERC721"
   },
   {
     "name": "inTheory Research NFTs",
-    "contractAddress": "0xff5e58ce9408858f6bb5fb979b08e9d6f21a276d"
+    "contractAddress": "0xff5e58ce9408858f6bb5fb979b08e9d6f21a276d",
+    "tokenType": "ERC721"
   },
   {
     "name": "CyberBoxCertNFT",
-    "contractAddress": "0xa4a8e345e1a88efc9164014bb2cebd4c2f98e986"
+    "contractAddress": "0xa4a8e345e1a88efc9164014bb2cebd4c2f98e986",
+    "tokenType": "ERC721"
   },
   {
     "name": "ValoraPunks",
-    "contractAddress": "0xaf99ac3ab1c17728d0ee3256f02061018845b588"
+    "contractAddress": "0xaf99ac3ab1c17728d0ee3256f02061018845b588",
+    "tokenType": "ERC721"
   },
   {
     "name": "DheNFT",
-    "contractAddress": "0xac2fa32ad39f162570e6d749b676143ccef98fd6"
+    "contractAddress": "0xac2fa32ad39f162570e6d749b676143ccef98fd6",
+    "tokenType": "ERC721"
   },
   {
     "name": "TMTM2023Attender",
-    "contractAddress": "0xd412cd69f0c2d881ce0fc55a2a59388cadfbc1d8"
+    "contractAddress": "0xd412cd69f0c2d881ce0fc55a2a59388cadfbc1d8",
+    "tokenType": "ERC721"
   },
   {
     "name": "TMTM2023Challenger",
-    "contractAddress": "0xdc2b902c061457fb62eb143bd574f98d9b5877a9"
+    "contractAddress": "0xdc2b902c061457fb62eb143bd574f98d9b5877a9",
+    "tokenType": "ERC721"
   },
   {
     "name": "TMTM2023TeamPlayer",
-    "contractAddress": "0x81d3a78082a2d4852a60632f31f57ef460888357"
+    "contractAddress": "0x81d3a78082a2d4852a60632f31f57ef460888357",
+    "tokenType": "ERC721"
   },
   {
     "name": "Carbonized Celostrials",
-    "contractAddress": "0xb346e32c9c5196a580f7466a039d902b505ae7d4"
+    "contractAddress": "0xb346e32c9c5196a580f7466a039d902b505ae7d4",
+    "tokenType": "ERC721"
   },
   {
     "name": "YourValoraPersona",
-    "contractAddress": "0xc49f7d91b18731edc54ec5693ad43bb1ddf6553c"
+    "contractAddress": "0xc49f7d91b18731edc54ec5693ad43bb1ddf6553c",
+    "tokenType": "ERC721"
   },
   {
     "name": "Planeta Azul",
-    "contractAddress": "0x792970ae5123f9f5bebbef2a55f66514b01bf321"
+    "contractAddress": "0x792970ae5123f9f5bebbef2a55f66514b01bf321",
+    "tokenType": "ERC721"
   },
   {
     "name": "MiniMice Yield Bond",
-    "contractAddress": "0x0f497a790429685a3cfd43b841865ee185378ff0"
+    "contractAddress": "0x0f497a790429685a3cfd43b841865ee185378ff0",
+    "tokenType": "ERC721"
   },
   {
     "name": "Membership EthicHub Bond",
-    "contractAddress": "0x8903412ac24281421f1d94fe27de56c0433f3d1f"
+    "contractAddress": "0x8903412ac24281421f1d94fe27de56c0433f3d1f",
+    "tokenType": "ERC721"
   }
 ]
