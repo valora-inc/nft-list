@@ -16,10 +16,9 @@ function contractAddressValidation(value: any) {
 
 export const schema = Joi.array().items(
   Joi.object({
-    name: Joi.string(),
-    contractAddress: Joi.string().custom(
-      contractAddressValidation,
-      'Contract address validation',
-    ),
+    name: Joi.string().required(),
+    contractAddress: Joi.string()
+      .custom(contractAddressValidation, 'Contract address validation')
+      .required(),
   }),
 )
