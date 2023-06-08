@@ -108,5 +108,10 @@
     "name": "Membership EthicHub Bond",
     "contractAddress": "0x8903412ac24281421f1d94fe27de56c0433f3d1f",
     "tokenType": "ERC721"
+  },
+  {
+    "name": "Arte do Bem",
+    "contractAddress": "0x559beb0f7368eab9150463f1a88adb2296479430",
+    "tokenType": "ERC721"
   }
 ]
