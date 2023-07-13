@@ -123,5 +123,10 @@
     "name": "Água",
     "contractAddress": "0x28df94164949efde9b766b047c6d6ee7466a9223",
     "tokenType": "ERC721"
+  },
+  {
+    "name": "Arte",
+    "contractAddress": "0x1caae6c48a685b87aa28403cbe781cd8bfc4a641",
+    "tokenType": "ERC721"
   }
 ]
