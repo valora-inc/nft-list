@@ -113,5 +113,15 @@
     "name": "Arte do Bem",
     "contractAddress": "0x559beb0f7368eab9150463f1a88adb2296479430",
     "tokenType": "ERC721"
+  },
+  {
+    "name": "Saúde",
+    "contractAddress": "0x2c88c89a0dd07940c457f6347e2e79c4c1797444",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "Água",
+    "contractAddress": "0x28df94164949efde9b766b047c6d6ee7466a9223",
+    "tokenType": "ERC721"
   }
 ]
