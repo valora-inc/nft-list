@@ -128,5 +128,10 @@
     "name": "Arte",
     "contractAddress": "0x1caae6c48a685b87aa28403cbe781cd8bfc4a641",
     "tokenType": "ERC721"
+  },
+  {
+    "name": "TokenVestingPlans",
+    "contractAddress": "0xd240f76c57fb18196a864b8b06e9b168c98c4524",
+    "tokenType": "ERC721"
   }
 ]
