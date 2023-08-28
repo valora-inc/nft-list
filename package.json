@@ -14,7 +14,7 @@
   "prettier": "@valora/prettier-config",
   "devDependencies": {
     "@ethersproject/address": "^5.7.0",
-    "@types/jest": "^29.5.3",
+    "@types/jest": "^29.5.4",
     "@typescript-eslint/eslint-plugin": "6.4.1",
     "@valora/eslint-config-typescript": "1.0.2",
     "@valora/prettier-config": "0.0.1",
@@ -24,7 +24,7 @@
     "eslint-plugin-react": "7.33.2",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-react-native": "4.0.0",
-    "jest": "29.6.2",
+    "jest": "29.6.4",
     "joi": "^17.9.2",
     "prettier": "3.0.2",
     "ts-jest": "^29.1.1",
