@@ -133,5 +133,10 @@
     "name": "TokenVestingPlans",
     "contractAddress": "0xd240f76c57fb18196a864b8b06e9b168c98c4524",
     "tokenType": "ERC721"
+  },
+  {
+    "name": "TokenVestingPlans",
+    "contractAddress": "0x2cde9919e81b20b4b33dd562a48a84b54c48f00c",
+    "tokenType": "ERC721"
   }
 ]
