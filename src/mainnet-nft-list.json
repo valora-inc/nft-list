@@ -138,5 +138,10 @@
     "name": "TokenVestingPlans",
     "contractAddress": "0x2cde9919e81b20b4b33dd562a48a84b54c48f00c",
     "tokenType": "ERC721"
+  },
+  {
+    "name": "CEL2()",
+    "contractAddress": "0xcc1acfe1262779661cb0e4e6afc83f8a208237de",
+    "tokenType": "ERC721"
   }
 ]
