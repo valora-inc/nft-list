@@ -28,6 +28,6 @@
     "joi": "^17.13.3",
     "prettier": "3.4.1",
     "ts-jest": "^29.2.5",
-    "typescript": "5.6.3"
+    "typescript": "5.7.2"
   }
 }
