@@ -143,5 +143,50 @@
     "name": "CEL2",
     "contractAddress": "0xcc1acfe1262779661cb0e4e6afc83f8a208237de",
     "tokenType": "ERC721"
+  },
+  {
+    "name": "Wonder Wallets (1st Class)",
+    "contractAddress": "0xe5b38bff57c05d1203a15eb102ca010de4899672",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "Wonder Wallets (2nd Class)",
+    "contractAddress": "0x2ce3ace9870654070057f3007fe66c02a65bf7c1",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "Becoming a Blockchain Baddie (2nd Class)",
+    "contractAddress": "0x30141ad198dd91b53f1607f2ed9bdcce80c55984",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "Ethereum's Glow Ups (1st Class)",
+    "contractAddress": "0x4ea7d129f021de38041cb9abf56c6fae172bf133",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "Ethereum's Glow Ups (2nd Class)",
+    "contractAddress": "0xae5c2f9ac937eaf2973620a9ba01ea2eb44ed766",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "What The Fi is DeFi",
+    "contractAddress": "0x3a5bd27800c7a84bb23c5bc133cb75473577cae7",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "What's Dai Got To Do With It (Stablecoins)",
+    "contractAddress": "0x02da6acb1f19fd88636d55a0beac517aa3c8b404",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "Trading Tokens (1st Class)",
+    "contractAddress": "0x90964878b8743a26febabf6a3df9ee58cc152a94",
+    "tokenType": "ERC721"
+  },
+  {
+    "name": "Trading Tokens (2nd Class)",
+    "contractAddress": "0x6be427fe5ce54f7c9629dfad70a7cce817a47d65",
+    "tokenType": "ERC721"
   }
 ]
