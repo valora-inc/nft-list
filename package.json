@@ -13,10 +13,10 @@
   },
   "prettier": "@valora/prettier-config",
   "devDependencies": {
-    "@ethersproject/address": "^5.7.0",
+    "@ethersproject/address": "^5.8.0",
     "@types/jest": "^30.0.0",
     "@typescript-eslint/eslint-plugin": "7.18.0",
-    "@valora/eslint-config-typescript": "1.0.2",
+    "@valora/eslint-config-typescript": "1.1.51",
     "@valora/prettier-config": "0.0.1",
     "eslint": "8.57.1",
     "eslint-plugin-import": "2.31.0",
@@ -25,7 +25,7 @@
     "eslint-plugin-react-hooks": "4.6.2",
     "eslint-plugin-react-native": "4.1.0",
     "jest": "30.0.2",
-    "joi": "^18.0.0",
+    "joi": "^18.0.2",
     "prettier": "3.7.4",
     "ts-jest": "^29.3.0",
     "typescript": "5.9.3"
